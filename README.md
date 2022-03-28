@@ -10,6 +10,7 @@ Code was orignally implemented in pytorch but i converted it to Tensorflow and t
 
 * Also working on using Nyu_v2 dataset as seen in [DenseDepth](https://github.com/ialhashim/DenseDepth).
 
-# References
+# References/useful links
 * https://keras.io/examples/vision/depth_estimation/
 * https://github.com/jspenmar/DeFeat-Net/
+* https://github.com/dexter2406/Monodepth2-TF2
